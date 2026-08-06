@@ -20,8 +20,6 @@
 - 📈 Power BI Dashboard
 
 ## 🌱 Currently Learning
-- Advanced SQL
-- Power BI
 - Machine Learning
 
 ## 📫 Connect with Me
