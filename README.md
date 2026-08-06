@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i am Ritika Patil👋
 
 <!--
 **ritikapatil1868/ritikapatil1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
