@@ -1,42 +1,38 @@
-# Hi, I'm Ritika Patil 👋
+# Hi 👋, I'm Ritika Patil
 
-### 📊 Aspiring Data Analyst | Mechanical Engineering Graduate
+## 📊 Aspiring Data Analyst
 
-I am a Mechanical Engineering graduate transitioning into Data Analytics. I enjoy transforming raw data into meaningful insights through analysis, visualization, and dashboards.
+🎓 Mechanical Engineering Graduate transitioning into Data Analytics.
+
+💡 Passionate about solving real-world business problems using data.
 
 ---
 
 ## 🚀 About Me
-
-🎓 Mechanical Engineering Graduate
-
-📊 Aspiring Data Analyst
 
 🌱 Currently Learning
 - Advanced SQL
 - Power BI
 - Machine Learning
 
-💡 Interested In
+👩‍💻 Interested In
 - Data Analysis
 - Business Intelligence
-- Dashboard Development
 - Data Visualization
+- Dashboard Development
 
 ---
 
 ## 💻 Tech Stack
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Git
-- GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
@@ -52,25 +48,21 @@ I am a Mechanical Engineering graduate transitioning into Data Analytics. I enjo
 
 🗄️ SQL Projects
 
-📊 Excel Dashboard
-
----
-
-## 🎯 Career Objective
-
-Seeking an opportunity as a Data Analyst where I can apply my analytical skills, solve real-world problems, and continuously learn new technologies.
+📑 Excel Dashboard
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email
-**ritikapatil186@gmail.com**
+📧 Email:
+ritikapatil186@gmail.com
 
-💼 LinkedIn
-www.linkedin.com/in/ritika-patil-6889b8307
+💼 LinkedIn:
+https://www.linkedin.com/in/ritika-patil-6889b8307
 
-⭐ Thanks for visiting my profile!
+🐙 GitHub:
+https://github.com/ritikapatil1868
+
 </p>
 <!--
 **ritikapatil1868/ritikapatil1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
