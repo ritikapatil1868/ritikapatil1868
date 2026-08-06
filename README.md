@@ -1,92 +1,67 @@
-# Hi there, I'm Ritika Patil 👋
+# Hi 👋, I'm Ritika Patil
 
-### 💙 Aspiring Data Analyst | Mechanical Engineering Graduate
+## 📊 Aspiring Data Analyst
 
-I am a Mechanical Engineering graduate passionate about transforming data into meaningful insights. Currently building my skills in Data Analytics through hands-on projects using Python, SQL, Excel, and Power BI.
+🎓 Mechanical Engineering Graduate transitioning into Data Analytics.
+
+💡 Passionate about solving real-world business problems using data.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech in Mechanical Engineering
-
-📊 Transitioning into Data Analytics
-
-🌱 Currently Learning:
+🌱 Currently Learning
 - Advanced SQL
 - Power BI
 - Machine Learning
 
-💡 Interested In:
+👩‍💻 Interested In
 - Data Analysis
 - Business Intelligence
-- Dashboard Development
 - Data Visualization
+- Dashboard Development
 
 ---
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
-### Programming
-- Python
-- SQL
-
-### Data Analysis
-- Pandas
-- NumPy
-
-### Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-- Excel
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Amazon Prime EDA
-Exploratory Data Analysis using Python.
+📊 Amazon Prime TV Shows and Movies Analysis
 
-### 🍽️ Zomato Restaurant Clustering
-Machine Learning project using restaurant data.
+🍽️ Zomato Restaurant Clustering
 
-### 📈 Power BI Dashboard
-Interactive dashboard for business insights.
+💬 WhatsApp Chat Analysis
 
-### 🗄️ SQL Projects
-SQL queries for data analysis and reporting.
+📈 Power BI Dashboard
 
----
+🗄️ SQL Projects
 
-## 🎯 Career Objective
-
-Seeking an opportunity as a Data Analyst where I can apply my analytical skills and continue learning while contributing to business growth.
+📑 Excel Dashboard
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 📧 Email:
-**ritikapatil186@gmail.com**
+ritikapatil186@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/ritika-patil-6889b8307
 
 🐙 GitHub:
 https://github.com/ritikapatil1868
-
----
-
-⭐ Thank you for visiting my profile!
 
 <!--
 **ritikapatil1868/ritikapatil1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
