@@ -1,42 +1,58 @@
-# Hi 👋, I'm Ritika Patil
+<h1 align="center">Hi 👋, I'm Ritika Patil</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI</h3>
 
-## 📊 Aspiring Data Analyst
-
-🎓 Mechanical Engineering Graduate transitioning into Data Analytics.
-
-💡 Passionate about solving real-world business problems using data.
+<p align="center">
+  <i>Turning Data into Meaningful Insights 📈</i>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
+
+🎓 Mechanical Engineering Graduate transitioning into Data Analytics
 
 🌱 Currently Learning
 - Advanced SQL
 - Power BI
 - Machine Learning
 
-👩‍💻 Interested In
+💼 Interested In
 - Data Analysis
 - Business Intelligence
-- Data Visualization
 - Dashboard Development
+- Data Visualization
+
+📍 India
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 📊 Amazon Prime TV Shows and Movies Analysis
 
@@ -48,21 +64,31 @@
 
 🗄️ SQL Projects
 
-📑 Excel Dashboard
+📊 Excel Dashboard
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email:
+📧 **Email**
+
 ritikapatil186@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/ritika-patil-6889b8307
 
-🐙 GitHub:
+🐙 **GitHub**
+
 https://github.com/ritikapatil1868
 
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
 <!--
 **ritikapatil1868/ritikapatil1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
