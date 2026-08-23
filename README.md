@@ -4,7 +4,7 @@
 
 🎓 Mechanical Engineering Graduate transitioning into Data Analytics.
 
-💡 Passionate about solving real-world business problems using data.
+📈 Turning data into insights to solve real-world business problems.
 
 ---
 
@@ -38,17 +38,13 @@
 
 ## 📂 Featured Projects
 
-📊 Amazon Prime TV Shows and Movies Analysis
+📊 **Amazon Prime TV Shows & Movies Analysis**
 
-🍽️ Zomato Restaurant Clustering
+💬 **WhatsApp Chat Analysis**
 
-💬 WhatsApp Chat Analysis
+📈 **Amazon Prime Power BI Dashboard**
 
-📈 Power BI Dashboard
-
-🗄️ SQL Projects
-
-📑 Excel Dashboard
+🗄️ **SQL Portfolio**
 
 ---
 
