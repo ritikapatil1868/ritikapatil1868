@@ -10,11 +10,6 @@
 
 ## 🚀 About Me
 
-🌱 Currently Learning
-- Advanced SQL
-- Power BI
-- Machine Learning
-
 👩‍💻 Interested In
 - Data Analysis
 - Business Intelligence
